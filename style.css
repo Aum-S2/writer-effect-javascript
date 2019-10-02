@@ -3,7 +3,7 @@
 body {
   font-family: 'Raleway', sans-serif;
   height: 100vh;
-  background: #333 url('images/staircase.jpg') no-repeat center center/cover;
+  background: #333 url('images/darkNight.jpg') no-repeat center center/cover;
   color: #ccc;
   overflow: hidden;
 }
@@ -23,12 +23,12 @@ h1, h2 {
 
 h1 {
   font-size: 3rem;
-  color: rgb(252, 48, 48);
+  color: rgb(241, 224, 224);
 }
 
 h2 {
   font-size: 2rem;
-  color: tomato;
+  color: rgb(199, 193, 193);
 }
 
 @media(min-width: 1200px) {
